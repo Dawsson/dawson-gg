@@ -27,7 +27,7 @@
 			</p>
 
             <div class="py-4">
-				<a href="https://github.com/Dawsson" target="_blank" class="inline-flex items-center justify-center size-32 hover:scale-105 ease-in-out duration-150"><img src="{discord}" alt="Blue Discord Mark"></a>
+				<a href="https://discord.com/users/867435070696456222" target="_blank" class="inline-flex items-center justify-center size-32 hover:scale-105 ease-in-out duration-150"><img src="{discord}" alt="Blue Discord Mark"></a>
 
 				<a href="https://github.com/Dawsson" target="_blank" class="inline-flex items-center justify-center size-32 hover:scale-105 ease-in-out duration-150"><img src="{github}" alt="Github White Mark"></a>
             </div>
