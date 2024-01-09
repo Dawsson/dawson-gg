@@ -1,6 +1,6 @@
 <script lang="ts">
     import discord from "$lib/images/discord-mark-blue.svg"
-    import github from "$lib/images/github-mark.svg"
+    import github from "$lib/images/github-mark-white.svg"
 </script>
 
 <div class="container h-full mx-auto flex justify-center items-center text-2xl">
